@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crzdevhome ✨
+- 👋 Hi, I’m @crzdevhome, Web Developer from Trivandrum, India ✨
 - 👀 I’m interested in Ionic, Angular, Laravel frameworks.
 - 🌱 I’m currently persuing my Bachelor's Degree (BCA) in Amrita Viswa Vidhyapeetham, Kollam.
 - 💞️ I’m looking to collaborate on Ionic framework, Angular, Laravel and Node.js, React.js.
